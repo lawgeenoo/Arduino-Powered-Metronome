@@ -1,4 +1,8 @@
 # Arduino-Powered-Metronome
+Video is too large for GitHub, you may view it here:
+
+https://www.youtube.com/watch?v=cRsprXX3Bms
+
 I've built a digital metronome, using an Arduino Uno Board, buzzer, a display showing BPM(beats per minute) and a whole lotta wires. 
 It is still currently "under construction", since I plan to add two pushbuttons to manually increment/decrement the BPM speed, add an on/off switch and 
 build a casing when it's done. 
