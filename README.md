@@ -5,4 +5,4 @@ build a casing when it's done.
 
 Will post the wiring schematic and components when done.
 So far, it works perfectly. Since there's no pushbuttons or dedicated pot to change the BPM yet, you may change it using the Arduino IDE,
-by modifying the tempo variable.
+by modifying the tempo variable. I will probably model the code for odd time signatures at some point.
