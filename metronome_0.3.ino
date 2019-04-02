@@ -2,7 +2,6 @@
 static volatile int tempo = 120;
 static volatile float tick = 1;
 int dtime;
-// initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);
 
 void setup() {
